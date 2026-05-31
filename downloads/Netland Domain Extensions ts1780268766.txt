@@ -1,0 +1,31 @@
+# Netland Domain Extensions ts1780268766
+
+The Government of Netland owns, and operates several domain extensions.
+
+## ICANN Domains
+
+### .gôv.net
+
+- .gôv.net is reserved for government use, with the exception the of the third-level domain extensions listed below:
+ - .roy.gôv.net is for personal websites operated by members of the royal family.
+ - .emb.gôv.net is for foreign government embassy websites. They may be operated by federal, provincial, state, territorial, or municipal governments. At present, this 3LD is not in use.
+
+### .ôrg.net
+
+- .ôrg.net is for non-profit organizations registered, and based in Netland. Organizations not based in Netland do not qualify.
+
+### .côm.net 
+
+- .côm.net is for companies registered, and based in Netland. Companies not based in Netland do not qualify.
+
+### .èdu.net
+
+- .èdu.net is for schools, or learning providers registered, and based in Netland. Institutions not based in Netland do not qualify.
+
+### .tél.net
+
+- .tél.net is a gSLD for Netland citizens. It replaced the gSLD .infô.net, which is no longer operated by the Government of Netland.
+
+### .infô.net
+
+- .infô.net was a gSLD for Netland citizens. However, it is no longer owned, operated, or affiliated with Netland. It was replaced with .tél.net in 2025, and ceased operation in 2026.

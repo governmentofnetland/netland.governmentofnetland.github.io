@@ -1,0 +1,13 @@
+/* TEAM */
+Administrator: James Daniel Marrs Ritchey
+Site: https://jamesdanielmarrsritchey.roy.gôv.net
+Location: Canada
+
+/* THANKS */
+Contributer: James Daniel Marrs Ritchey
+Site: https://jamesdanielmarrsritchey.roy.gôv.net
+Location: Canada
+
+/* SITE */
+Last update: 2026/05/31
+Standards: HTML5, CSS3, Javascript
