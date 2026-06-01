@@ -1,4 +1,4 @@
-# Netland Domain Extensions ts1780268766
+# Netland Domain Extensions ts1780268767
 
 The Government of Netland owns, and operates several domain extensions.
 
@@ -18,9 +18,9 @@ The Government of Netland owns, and operates several domain extensions.
 
 - .côm.net is for companies registered, and based in Netland. Companies not based in Netland do not qualify.
 
-### .èdu.net
+### .édu.net
 
-- .èdu.net is for schools, or learning providers registered, and based in Netland. Institutions not based in Netland do not qualify.
+- .édu.net is for schools, or learning providers registered, and based in Netland. Institutions not based in Netland do not qualify.
 
 ### .tél.net
 
